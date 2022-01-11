@@ -1,0 +1,8 @@
+.Pagination span {
+  margin: 2px;
+}
+
+.Pagination {
+  display: inline-flex;
+  align-items: center;
+}
